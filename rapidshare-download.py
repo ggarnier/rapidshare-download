@@ -1,5 +1,5 @@
 # Script para download automatico de arquivos do Rapidshare
-# Autor: Guilherme Garnier - http://ggarnier.wordpress.com/
+# Autor: Guilherme Garnier - http://guilhermegarnier.com/
 # Uso: rapidshare-download.py [-f <arquivo> / -u <url>]
 #        -f <arquivo>: arquivo texto com lista de URLs para download
 #        -u <url>: URL do Rapidshare para download
